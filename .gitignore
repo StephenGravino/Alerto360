@@ -1,0 +1,24 @@
+# Database files
+*.sql
+uploads/
+uploads/*
+
+# Configuration files with sensitive data
+db_connect.php
+
+# IDE and OS files
+.DS_Store
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Temporary files
+temp/
+*.tmp
+*.log
+
+# PHP configuration
+php.ini
+.htaccess
